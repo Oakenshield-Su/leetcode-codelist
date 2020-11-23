@@ -24,8 +24,8 @@
 8. 超级节点  
 
 9. 双指针  
-	977 [有序数组的平方](https://github.com/Oakenshield-Su/leetcode-codelist/blob/master/leetcode-977-array.cpp)
-
+	977 [有序数组的平方](https://github.com/Oakenshield-Su/leetcode-codelist/blob/master/leetcode-977-array.cpp)  
+	941 有效山脉
 10. 滑动窗口  
 
 11. 哈希表  
@@ -37,17 +37,14 @@
 	1365 有多少小于当前数字的数字    
 	1122 数组相对排序    
 	注：固定数字用桶排序！！！！    
-
+  
 14. 二分法  
-	33 搜索旋转排序数组
-
+	33 搜索旋转排序数组  
 15. 排列问题  
-	37 下一个排列
-
+	37 下一个排列  
 16. 贪心  
-	1402 做菜顺序
-
+	1402 做菜顺序  
 17. 链表排序  
-	147 冒泡排序
-	148 归并排序
+	147 冒泡排序  
+	148 归并排序  
 

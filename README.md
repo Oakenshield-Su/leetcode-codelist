@@ -29,8 +29,8 @@
 10. 滑动窗口  
 
 11. 哈希表  
-	1338 [数组大小减半](https://github.com/Oakenshield-Su/leetcode-codelist/blob/master/leetcode-1338-hash.cpp)
-
+	1338 [数组大小减半](https://github.com/Oakenshield-Su/leetcode-codelist/blob/master/leetcode-1338-hash.cpp)    
+    454 四数相加  
 12. 快速排序  
 
 13. 计数排序    
